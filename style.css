@@ -1,0 +1,29 @@
+a {
+    text-decoration: none;
+    color: inherit;
+
+}
+body{
+    display: flex;
+
+}
+.header {
+    background-color: #1F2937;
+    font-size: 24px;
+    color: white;
+    display: flex;
+    flex: auto;
+    justify-content: center;
+    align-items: center;
+}
+
+.left-hugger{
+    /* justify-content: center;
+    align-items: center; */
+}
+
+.right-hugger{
+    font-size: 18px;
+    color: #e5e7eb;
+    margin-left: auto;
+}
